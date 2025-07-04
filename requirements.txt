@@ -1,3 +1,4 @@
-docx
+python-docx
 python-dotenv==1.0.1
-
+langchain
+openai
