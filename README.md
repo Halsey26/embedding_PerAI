@@ -2,17 +2,15 @@
 
 
 
-Librerias:
-
-
-
+- Librerias:
 pip install -q "qdrant-client[fastembed]>=1.14.2"
 
 
 
-Docker: 
+- Imagen Docker: 
 docker pull qdrant/qdrant
 
+- Contenedor
 docker run -p 6333:6333 -p 6334:6334 \
    -v "$(pwd)/qdrant_storage:/qdrant/storage:z" \
    qdrant/qdrant
