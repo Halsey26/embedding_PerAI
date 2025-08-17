@@ -10,3 +10,4 @@ requests
 beautifulsoup4
 weasyprint
 fpdf2
+reportlab
