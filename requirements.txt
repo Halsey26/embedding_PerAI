@@ -1,4 +1,12 @@
-python-docx
-python-dotenv==1.0.1
 langchain
 openai
+qdrant-client[fastembed]>=1.14.2
+pdf2image
+PyPDF2
+pytesseract
+tqdm
+python-dotenv
+requests
+beautifulsoup4
+weasyprint
+fpdf2
