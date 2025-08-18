@@ -1,7 +1,10 @@
 langchain
+langchain-community
+sentence-transformers
 openai
 qdrant-client[fastembed]>=1.14.2
 pdf2image
+pypdf
 PyPDF2
 pytesseract
 tqdm
@@ -11,3 +14,4 @@ beautifulsoup4
 weasyprint
 fpdf2
 reportlab
+tiktoken
