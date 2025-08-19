@@ -2,3 +2,5 @@
 venv/
 qdrant_storage/
 .vscode/
+*.pdf
+doc_pdf/
