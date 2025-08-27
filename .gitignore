@@ -4,4 +4,5 @@ qdrant_storage/
 .vscode/
 *.pdf
 doc_pdf/
+docs_pdf_prueba/
 backup-repo/
